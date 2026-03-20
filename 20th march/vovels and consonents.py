@@ -1,3 +1,6 @@
+#1.⁠ ⁠Count number of vowels and consonants in a string.
+
+
 s = input("Enter the string : ")
 vowels = ["a","e","i","o","u","A","E","I","O","U"]
 
